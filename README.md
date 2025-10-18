@@ -1,4 +1,4 @@
-#KDM Odds Calculator
+# KDM Odds Calculator
 
 A basic web app that allows you to calculate hit/wound/crit rates.  
 
@@ -6,7 +6,7 @@ A basic web app that allows you to calculate hit/wound/crit rates.
 
 ## Quick Start (Docker)  
 
-Pull the repo down and from a cli tool run the following from the main dir
+Pull the repo down and from a cli tool run the following from the main dir  
 `docker build -t kdm-odds .`  
 `docker run --rm -p 8080:80 kdm-odds`  
 You should see the following:  
